@@ -1,5 +1,0 @@
-CIS101|Intro to Information Systems|Fall 2026|F001
-CIS201|Web Development I|Fall 2026|F002
-CIS305|Database Systems|Fall 2026|F003
-CIS350|Learning Management Systems|Fall 2026|F001
-CIS410|Advanced Web Applications|Winter 2027|F002
